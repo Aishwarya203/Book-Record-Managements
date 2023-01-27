@@ -1,0 +1,26 @@
+{
+  "name": "book-record-managements",
+  "version": "1.0.0",
+  "description": "Book Record Managements",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aishwarya203/Book-Record-Managements.git"
+  },
+  "author": "Aishwarya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aishwarya203/Book-Record-Managements/issues"
+  },
+  "homepage": "https://github.com/Aishwarya203/Book-Record-Managements#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
